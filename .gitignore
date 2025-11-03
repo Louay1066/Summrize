@@ -1,0 +1,70 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.iml
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+dist/
+build/
+.cache/
+.next/
+.out/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+*.sqlite3
+
+# Environment files
+.env
+.env.* 
+
+# Logs
+logs/
+*.log
+
+# Java / Gradle / Maven
+*.class
+*.jar
+*.war
+*.ear
+target/
+.gradle/
+build/
+
+# .NET
+bin/
+obj/
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Misc
+*.swp
+*~
+.project
+.settings/

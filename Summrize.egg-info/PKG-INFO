@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: Summrize
+Version: 0.1.0
+Summary: A package for summarizing text using huggingface transformers.
+Author: Louay Abrame
+Author-email: louayabrameim@hotmail.com
+Requires-Dist: transformers
+Requires-Dist: click==8.1.3
+Requires-Dist: tensorflow
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary

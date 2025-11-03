@@ -1,0 +1,9 @@
+setup.py
+Summrize/__init__.py
+Summrize/main.py
+Summrize.egg-info/PKG-INFO
+Summrize.egg-info/SOURCES.txt
+Summrize.egg-info/dependency_links.txt
+Summrize.egg-info/entry_points.txt
+Summrize.egg-info/requires.txt
+Summrize.egg-info/top_level.txt
